@@ -9,5 +9,6 @@ MainKyitOl: Yeni kullanıcı kaydı yapmak için kullanılan aktivite sınıfıd
 
 Kolay ve hızlıca hesap oluşturup işlemlerinize devam edin... 🪪🧾💻
 
-![cccc](https://github.com/osmandemir2533/UserAuthenticationandRegistration/assets/111290271/88916b5e-f10c-4f20-a6d1-64438aacf7e9)
+![cccc](https://github.com/osmandemir2533/UserAuthenticationandRegistration/assets/111290271/9191c486-c849-464b-bba3-5963ec570fea)
+
 
