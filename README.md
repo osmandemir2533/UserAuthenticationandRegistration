@@ -7,7 +7,7 @@ MainHosgeldiniz: Kullanıcı başarılı bir şekilde giriş yaptığında karş
 
 MainKyitOl: Yeni kullanıcı kaydı yapmak için kullanılan aktivite sınıfıdır. Kullanıcının adını ve parolasını girmesine izin verir ve bu bilgileri SharedPreferences kullanarak kaydeder.
 
-Kolay ve hızlıca hesap oluşturup işlemlerinize devam edin...🪪🧾💻
+Kolay ve hızlıca hesap oluşturup işlemlerinize devam edin... 🪪🧾💻
 
 ![cccc](https://github.com/osmandemir2533/UserAuthenticationandRegistration/assets/111290271/88916b5e-f10c-4f20-a6d1-64438aacf7e9)
 
